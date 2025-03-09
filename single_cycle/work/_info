@@ -1,0 +1,397 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+valu
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1741555241
+!i10b 1
+!s100 n_V[?SAdFZH>YS`:o`C;G2
+I1HU`>[2dAV@DNZIn^Mdm20
+S1
+Z4 dD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle
+Z5 w1722496000
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/alu.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/alu.sv
+!i122 48
+L0 1 32
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z8 !s108 1741555241.000000
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/alu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/alu.sv|
+!i113 0
+Z9 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vbc_pc_mux
+R2
+Z11 !s110 1741555242
+!i10b 1
+!s100 bKG]XYHb6<mh`GEi=Vk2e3
+ImkKOSj9T_Z^NoRYT0c1^42
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_mux.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_mux.sv
+!i122 59
+Z12 L0 1 16
+R6
+R7
+r1
+!s85 0
+31
+Z13 !s108 1741555242.000000
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_mux.sv|
+!i113 0
+R9
+R10
+vbranch_condition
+R2
+R3
+!i10b 1
+!s100 9UzzfY2U_Pej?hlLLMg190
+Ig;?K;Xz3hE5zW<1OeE7AD0
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/branch_condition.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/branch_condition.sv
+!i122 49
+L0 1 23
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/branch_condition.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/branch_condition.sv|
+!i113 0
+R9
+R10
+vcontroller
+R2
+R3
+!i10b 1
+!s100 [KGGRB4[48HzchQmJIV[`3
+I3Mz`0QCjN`G<D?3z<]om>0
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/controller.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/controller.sv
+!i122 50
+L0 1 193
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/controller.sv|
+!i113 0
+R9
+R10
+vdata_memory
+R2
+R11
+!i10b 1
+!s100 Wo:WTH6Z[IgAXO;^53gN_0
+I@;VQTnoUbz<`iX@H<_WaE1
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/data_memory.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/data_memory.sv
+!i122 51
+L0 1 30
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/data_memory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/data_memory.sv|
+!i113 0
+R9
+R10
+vdata_memory_mux
+R2
+R11
+!i10b 1
+!s100 hQ<8O?QX2ff34HkNC]6L40
+Ie;<BZcAdkFCQGDYI4]9j32
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/dm_mux.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/dm_mux.sv
+!i122 52
+L0 1 17
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/dm_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/dm_mux.sv|
+!i113 0
+R9
+R10
+vdm_pc_mux
+R2
+R11
+!i10b 1
+!s100 A0`zX[Y<nki8D=cONXTV@3
+IdFR88VE7dVPjkjGahSoNz1
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/DM_PC _adder.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/DM_PC _adder.sv
+!i122 53
+L0 1 10
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/DM_PC _adder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/DM_PC _adder.sv|
+!i113 0
+R9
+R10
+vimmediate
+R2
+R11
+!i10b 1
+!s100 d>_jTMh79_KVB8CQNeS4P2
+IV0e]^k5kFoXQA@NZ6ifN:3
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/ImmediateGen.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/ImmediateGen.sv
+!i122 54
+L0 1 37
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/ImmediateGen.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/ImmediateGen.sv|
+!i113 0
+R9
+R10
+vinstruction_memory
+R2
+R11
+!i10b 1
+!s100 _<a5c`c5<8;8KXNMoozf@2
+ImDm43CcKX?93?a7[_=R=E1
+S1
+R4
+w1741555230
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/instruction_memory.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/instruction_memory.sv
+!i122 55
+L0 1 33
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/instruction_memory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/instruction_memory.sv|
+!i113 0
+R9
+R10
+vpc
+R2
+R11
+!i10b 1
+!s100 J0iU^R>cbbRISRiAd@Uf>2
+I^XBi1DWJ4;NV5B;K@B<JP2
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc.sv
+!i122 58
+Z14 L0 1 18
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc.sv|
+!i113 0
+R9
+R10
+vpc_with_four
+R2
+R11
+!i10b 1
+!s100 nMkBC=6lY8MH^[ckS]7460
+IjaWDJLl^z2`l2zUU0`^T41
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_with_four.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_with_four.sv
+!i122 60
+L0 1 8
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_with_four.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_with_four.sv|
+!i113 0
+R9
+R10
+vregister_file
+R2
+R11
+!i10b 1
+!s100 Ef`3;X8[Jnz_LA8N7me4Z2
+I7m>j^oAIOC`Nh^Z;>>@UZ2
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/register_file.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/register_file.sv
+!i122 61
+L0 1 34
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/register_file.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/register_file.sv|
+!i113 0
+R9
+R10
+vrs1_pc_mux
+R2
+R11
+!i10b 1
+!s100 HN8bM_m[DfWDoeVHk94^O3
+ICJNAn^4B2hL`GOm_0nd4j1
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_A.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_A.sv
+!i122 56
+R12
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_A.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_A.sv|
+!i113 0
+R9
+R10
+vsingle_cycle_processor
+R2
+R11
+!i10b 1
+!s100 fHRS_Q@5TAUj5`RfC>IJZ0
+IomSXMEV>D3YibeMW[?[UJ2
+S1
+R4
+w1739856116
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor.sv
+!i122 62
+L0 1 125
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor.sv|
+!i113 0
+R9
+R10
+vsingle_cycle_processor_tb
+R2
+!s110 1741555243
+!i10b 1
+!s100 gjj:8J8DbAld2T8]4=mnB2
+I24T=9>F3BTD=]>7Bm]MRW3
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor_testbench.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor_testbench.sv
+!i122 63
+R14
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor_testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor_testbench.sv|
+!i113 0
+R9
+R10
+vtwo_cross_one
+R2
+R11
+!i10b 1
+!s100 WZA>56>0mKNWL:o=S;d4h3
+IeoE7NY6HE_XnomF`K<S[K3
+S1
+R4
+R5
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_B.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_B.sv
+!i122 57
+L0 1 15
+R6
+R7
+r1
+!s85 0
+31
+R13
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_B.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_B.sv|
+!i113 0
+R9
+R10

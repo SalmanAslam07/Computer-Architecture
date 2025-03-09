@@ -1,0 +1,106 @@
+{D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module single_cycle_processor
+
+Top level modules:
+	single_cycle_processor
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_with_four.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_with_four.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pc_with_four
+
+Top level modules:
+	pc_with_four
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/ImmediateGen.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/ImmediateGen.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module immediate
+
+Top level modules:
+	immediate
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/dm_mux.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/dm_mux.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module data_memory_mux
+
+Top level modules:
+	data_memory_mux
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_A.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_A.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module rs1_pc_mux
+
+Top level modules:
+	rs1_pc_mux
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/branch_condition.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/branch_condition.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module branch_condition
+
+Top level modules:
+	branch_condition
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_mux.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/pc_mux.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module bc_pc_mux
+
+Top level modules:
+	bc_pc_mux
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor_testbench.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/single_cycle_processor_testbench.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module single_cycle_processor_tb
+
+Top level modules:
+	single_cycle_processor_tb
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/alu.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/alu.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/data_memory.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/data_memory.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/DM_PC _adder.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/DM_PC _adder.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dm_pc_mux
+
+Top level modules:
+	dm_pc_mux
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_B.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/mux_B.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module two_cross_one
+
+Top level modules:
+	two_cross_one
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/register_file.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/register_file.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/controller.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/actual_single_cycle/controller.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}}
