@@ -1,0 +1,459 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1742910622
+VO]TEEc2IJ2]JGeIHaGN4f0
+04 10 4 work test_bench fast 0
+=1-48ba4ef9326a-67e2b49d-3bc-3810
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vALU
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1742910607
+!i10b 1
+!s100 <o633cUBMdXn7;MRXN2551
+IdQm@kaGDkZD>>_m]hi8B10
+S1
+Z3 dD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline
+w1742907811
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/ALU.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/ALU.sv
+!i122 71
+L0 1 22
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1742910607.000000
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/ALU.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/ALU.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@a@l@u
+vbranch_condition
+R1
+R2
+!i10b 1
+!s100 ^EzKce[IP]?AZSUKE35QN3
+I?gZ4KS;ZI`RH1=T;0J25H3
+S1
+R3
+w1742907845
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_condition.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_condition.sv
+!i122 72
+L0 1 21
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_condition.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_condition.sv|
+!i113 0
+R7
+R0
+vbranch_mux_A
+R1
+R2
+!i10b 1
+!s100 T:l>D9[:mK;6CDR0]>i>91
+Inl3dP@Zo:mC68XEWb:F1:2
+S1
+R3
+w1742907800
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_mux_A.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_mux_A.sv
+!i122 73
+Z8 L0 1 15
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_mux_A.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_mux_A.sv|
+!i113 0
+R7
+R0
+nbranch_mux_@a
+vbranch_mux_B
+R1
+R2
+!i10b 1
+!s100 0gJ>;RXI;z0?lXzTNJ6zX2
+I9dGNU;X6MdIV52eN>A7a>0
+S1
+R3
+w1742907788
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_mux_B.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_mux_B.sv
+!i122 74
+Z9 L0 1 16
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_mux_B.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/branch_mux_B.sv|
+!i113 0
+R7
+R0
+nbranch_mux_@b
+vcontroller
+R1
+R2
+!i10b 1
+!s100 Y;RK>W1Vd_hc@WLH0Ki821
+Ia?5]HFGK?hLg8UB6_maOl2
+S1
+R3
+w1742907932
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/controller.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/controller.sv
+!i122 75
+L0 1 191
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/controller.sv|
+!i113 0
+R7
+R0
+vdata_mem_mux
+R1
+Z10 !s110 1742910608
+!i10b 1
+!s100 SBnF?kMMl7HLB3]lTT5N12
+I0Cfz^9O?nUIX5WJh984583
+S1
+R3
+w1742908008
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/data_mem_mux.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/data_mem_mux.sv
+!i122 76
+Z11 L0 1 17
+R4
+R5
+r1
+!s85 0
+31
+Z12 !s108 1742910608.000000
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/data_mem_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/data_mem_mux.sv|
+!i113 0
+R7
+R0
+vdata_memory
+R1
+R10
+!i10b 1
+!s100 :h@:;EljZk1fCGX:lMPif3
+I;C6D_?cB8:HHnSW;<NzhF2
+S1
+R3
+w1742907965
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/data_memory.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/data_memory.sv
+!i122 77
+L0 1 33
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/data_memory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/data_memory.sv|
+!i113 0
+R7
+R0
+vforw_reg_1
+R1
+R10
+!i10b 1
+!s100 :E1ZU8aa:eV2G:Kf][:dU3
+I2?8H4hN9gHfH`I;NOZC[>3
+S1
+R3
+w1742908788
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/forw_reg1.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/forw_reg1.sv
+!i122 78
+L0 1 18
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/forw_reg1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/forw_reg1.sv|
+!i113 0
+R7
+R0
+vforw_reg_2
+R1
+R10
+!i10b 1
+!s100 G;OBf?WlMV`4O]g?h9T4_3
+In>UdfN>RYK<34:SDkZCT90
+S1
+R3
+w1742909069
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/forw_reg2.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/forw_reg2.sv
+!i122 79
+Z13 L0 1 37
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/forw_reg2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/forw_reg2.sv|
+!i113 0
+R7
+R0
+vimmediate_generator
+R1
+R10
+!i10b 1
+!s100 CWaOF59<??YMeg[KJR:I]0
+I^?IGnW7N6F;^4Af]mU1c[0
+S1
+R3
+w1742908057
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/immediate_generator.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/immediate_generator.sv
+!i122 80
+R13
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/immediate_generator.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/immediate_generator.sv|
+!i113 0
+R7
+R0
+vinstruction_memory
+R1
+R10
+!i10b 1
+!s100 GWAn1kW[CJ]j3`Aj]Qlj13
+I2zN^D:jdzeUldA19alR?M0
+S1
+R3
+w1742908135
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/instruction_memory.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/instruction_memory.sv
+!i122 81
+Z14 L0 1 24
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/instruction_memory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/instruction_memory.sv|
+!i113 0
+R7
+R0
+vmux_A
+R1
+R10
+!i10b 1
+!s100 8Oo1d]YXRE^GQM6:6iiK60
+I9ARNf?><k2gnF_6d1J?:Y1
+S1
+R3
+w1742908174
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/mux_A.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/mux_A.sv
+!i122 82
+R9
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/mux_A.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/mux_A.sv|
+!i113 0
+R7
+R0
+nmux_@a
+vmux_B
+R1
+R10
+!i10b 1
+!s100 z<>dMk_6a_]VXg:[dF6i11
+In1:B2nF=9S;_3FdSo^O2G1
+S1
+R3
+w1742908217
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/mux_B.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/mux_B.sv
+!i122 83
+R8
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/mux_B.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/mux_B.sv|
+!i113 0
+R7
+R0
+nmux_@b
+vpc
+R1
+R10
+!i10b 1
+!s100 YAAQgQV`@DROG[^SkJ7;j2
+I7z;ZB40_G0PA`UZZ0Akba1
+S1
+R3
+w1742908330
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/pc.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/pc.sv
+!i122 84
+R11
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/pc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/pc.sv|
+!i113 0
+R7
+R0
+vpc_mux
+R1
+R10
+!i10b 1
+!s100 cmO?>aR@:E2Rz1@N[H03D2
+I_FOZm]IcQHgFLzo`T60S@3
+S1
+R3
+w1742908364
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/pc_mux.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/pc_mux.sv
+!i122 85
+R11
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/pc_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/pc_mux.sv|
+!i113 0
+R7
+R0
+vpipeline
+R1
+Z15 !s110 1742910609
+!i10b 1
+!s100 >4YX^[IR:mejfV]BPz58B3
+IA?zPOA8@Nl_185eaLg4?F0
+S1
+R3
+w1742910600
+8D:\ONEDRIVE DATA\OneDrive\Desktop\pipeline\simple pipeline\pipeline.sv
+FD:\ONEDRIVE DATA\OneDrive\Desktop\pipeline\simple pipeline\pipeline.sv
+!i122 86
+L0 1 185
+R4
+R5
+r1
+!s85 0
+31
+Z16 !s108 1742910609.000000
+!s107 D:\ONEDRIVE DATA\OneDrive\Desktop\pipeline\simple pipeline\pipeline.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:\ONEDRIVE DATA\OneDrive\Desktop\pipeline\simple pipeline\pipeline.sv|
+!i113 0
+R7
+R0
+vregister_file
+R1
+R15
+!i10b 1
+!s100 <J6kEoomIYN>J^HK3Wl]P1
+II2Jm^Nc_[:YXU^hYXXa?I3
+S1
+R3
+w1742908503
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/register_file.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/register_file.sv
+!i122 87
+L0 1 25
+R4
+R5
+r1
+!s85 0
+31
+R16
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/register_file.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/register_file.sv|
+!i113 0
+R7
+R0
+vtest_bench
+R1
+R15
+!i10b 1
+!s100 b;nmX;A0:2K2BMdz]]a<>2
+I=VJCmVYfzkUz6;a7I3ZGm3
+S1
+R3
+w1742910343
+8D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/test_bench.sv
+FD:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/test_bench.sv
+!i122 88
+R14
+R4
+R5
+r1
+!s85 0
+31
+R16
+!s107 D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/test_bench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ONEDRIVE DATA/OneDrive/Desktop/pipeline/simple pipeline/test_bench.sv|
+!i113 0
+R7
+R0
