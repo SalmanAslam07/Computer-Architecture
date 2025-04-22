@@ -1,0 +1,71 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/transmitter
+T_opt
+!s110 1744052963
+Vab_E`zK<>khUE3@1eZi[e1
+04 14 4 work uart_top_rx_tb fast 0
+=1-48ba4ef9326a-67f422e2-17f-3fa0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vuart_top_rx
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1744052939
+!i10b 1
+!s100 <ZE0J]n30GH1_2mhin5XI0
+I97Yc1N;I7c3^^G[R^O0dz3
+S1
+Z4 dD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver
+w1744052907
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver.sv
+!i122 7
+L0 1 120
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1744052939.000000
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vuart_top_rx_tb
+R2
+R3
+!i10b 1
+!s100 M]41bX=3R^oeKeLQ[fVJe2
+I^CzmG]hWNF:U9fHoUzHge3
+S1
+R4
+w1744049947
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver_testbench.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver_testbench.sv
+!i122 8
+L0 3 105
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver_testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver_testbench.sv|
+!i113 0
+R8
+R1

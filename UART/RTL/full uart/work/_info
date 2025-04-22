@@ -1,0 +1,166 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1744056919
+Vg8;YK@MX1k:[B4bnbWm2C0
+04 12 4 work uart_full_tb fast 0
+=1-48ba4ef9326a-67f43256-2e6-34a4
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vuart_full
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1744056682
+!i10b 1
+!s100 0o6mfQKl>IOdITW1oM50j0
+Ia79gPGaS>1=15>]9hhY<?0
+S1
+Z2 dD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart
+w1744056673
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_top_module.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_top_module.sv
+!i122 30
+L0 1 43
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1744056682.000000
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_top_module.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_top_module.sv|
+!i113 0
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vuart_full_tb
+R1
+!s110 1744056885
+!i10b 1
+!s100 en0KSn3:kDNCOd7VXi3o_3
+IA?8MJ^A<64;zgM5T1O?iM3
+S1
+R2
+w1744056875
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_tb.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_tb.sv
+!i122 31
+L0 3 83
+R3
+R4
+r1
+!s85 0
+31
+!s108 1744056885.000000
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_tb.sv|
+!i113 0
+R5
+R0
+vuart_top_rx
+R1
+Z6 !s110 1744056446
+!i10b 1
+!s100 <ZE0J]n30GH1_2mhin5XI0
+IO@RAK=fb[<<gQFWnWfKZA2
+S1
+R2
+w1744052907
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/receiver.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/receiver.sv
+!i122 27
+L0 1 120
+R3
+R4
+r1
+!s85 0
+31
+Z7 !s108 1744056446.000000
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/receiver.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/receiver.sv|
+!i113 0
+R5
+R0
+vuart_top_tx
+R1
+R6
+!i10b 1
+!s100 <V]`Y]7[c7SEWBR9c>3Iz2
+IUdoaFEXmjgC?1g9niWaG53
+S1
+R2
+w1744054458
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_top_tx.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_top_tx.sv
+!i122 24
+L0 1 73
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_top_tx.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_top_tx.sv|
+!i113 0
+R5
+R0
+vuart_tx_controller
+R1
+R6
+!i10b 1
+!s100 WBY=9h0E3E>L7A1X70<gX1
+IchVn21a7?AonUhgD3Y=^^3
+S1
+R2
+Z8 w1744054455
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_tx_controller.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_tx_controller.sv
+!i122 25
+L0 1 56
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_tx_controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_tx_controller.sv|
+!i113 0
+R5
+R0
+vuart_tx_datapath
+R1
+R6
+!i10b 1
+!s100 fAU=zj=YIDe8U0h05Lhh71
+IH>L4R:EcP24UmCNEde59S2
+S1
+R2
+R8
+8D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_tx_datapath.sv
+FD:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_tx_datapath.sv
+!i122 26
+L0 1 41
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_tx_datapath.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_tx_datapath.sv|
+!i113 0
+R5
+R0

@@ -1,0 +1,36 @@
+{D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_top_module.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_top_module.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module uart_full
+
+Top level modules:
+	uart_full
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/receiver.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/receiver.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module uart_top_rx
+
+Top level modules:
+	uart_top_rx
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/uart_full_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module uart_full_tb
+
+Top level modules:
+	uart_full_tb
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_top_tx.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_top_tx.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module uart_top_tx
+
+Top level modules:
+	uart_top_tx
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_tx_controller.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/full uart/module uart_tx_controller.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module uart_tx_controller
+
+Top level modules:
+	uart_tx_controller
+
+} {} {}}

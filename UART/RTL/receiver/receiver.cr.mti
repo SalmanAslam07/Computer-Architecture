@@ -1,0 +1,15 @@
+{D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver_testbench.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver_testbench.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module uart_top_rx_tb
+
+Top level modules:
+	uart_top_rx_tb
+
+} {} {}} {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/ELECTRICAL ENGINEERING/6th semester books/2022/computer architecture lab/UART/receiver/receiver.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module uart_top_rx
+
+Top level modules:
+	uart_top_rx
+
+} {} {}}
